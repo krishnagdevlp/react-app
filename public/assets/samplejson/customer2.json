@@ -1,0 +1,22 @@
+{
+	"id": 2,
+	"name": "Jeff",	
+	"trans": [{	
+		"amt": "60",
+		"transactionDt": "05-01-2019",
+		"rewards":0
+		},
+	
+		{
+		
+		"amt": "30",
+		"transactionDt": "06-01-2019",
+		"rewards":0
+		},
+		{
+		
+			"amt": "80",
+			"transactionDt": "07-01-2019",
+			"rewards":0
+			}]
+		}

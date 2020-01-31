@@ -1,0 +1,49 @@
+[{
+	"id": 1,
+	"name": "Gates",
+	"email": "jsmith@test.com",
+	"phone": "123456789",
+	"trans": [{	
+		"amt": "120",
+		"transactionDt": "05-01-2019",
+		"rewards":0
+		},
+	
+		{
+		
+		"amt": "140",
+		"transactionDt": "06-01-2019",
+		"rewards":0
+		},
+		{
+		
+			"amt": "60",
+			"transactionDt": "07-01-2019",
+			"rewards":0
+			}]
+	
+}, {
+	"id": 2,
+	"name": "Jeff",
+	"email": "abcd@test.com",
+	"phone": "987654321",
+	"trans": [{	
+		"amt": "60",
+		"transactionDt": "05-01-2019",
+		"rewards":0
+		},
+	
+		{
+		
+		"amt": "30",
+		"transactionDt": "06-01-2019",
+		"rewards":0
+		},
+		{
+		
+			"amt": "80",
+			"transactionDt": "07-01-2019",
+			"rewards":0
+			}]
+	
+}]

@@ -1,0 +1,22 @@
+{
+	"id": 1,
+	"name": "Gates",	
+	"trans": [{	
+	"amt": "120",
+	"transactionDt": "05-01-2019",
+	"rewards":0
+	},
+
+	{
+	
+	"amt": "140",
+	"transactionDt": "06-01-2019",
+	"rewards":0
+	},
+	{
+	
+		"amt": "60",
+		"transactionDt": "07-01-2019",
+		"rewards":0
+		}]
+}
